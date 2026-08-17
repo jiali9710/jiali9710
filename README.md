@@ -1,8 +1,5 @@
 ## Hi there 👋 I'm Lily Jia
 
-<!--
-**jiali9710/jiali9710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a computational biologist with a PhD from the University of Edinburgh, working at the interface of single-cell transcriptomics, immunology, and tissue fibrosis.
 
 ## Research interests
