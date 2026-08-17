@@ -10,6 +10,15 @@ I am a computational biologist with a PhD from the University of Edinburgh, work
 - Tissue fibrosis and inflammation
 - Cell-state transitions and lineage trajectories
 
+## Computational experience
+
+- scRNA-seq preprocessing, integration and cell-type annotation
+- Differential expression and cross-tissue comparison
+- Trajectory inference using Slingshot and Monocle 3
+- Gene-expression dynamics using tradeSeq
+- Cross-condition trajectory comparison using condiments
+- R, Python
+
 ## Featured research
 
 ### Cross-organ single-cell analysis of fibrosis-associated macrophages
